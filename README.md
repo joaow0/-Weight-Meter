@@ -22,3 +22,10 @@ Este é um programa simples em Python que permite cadastrar o nome e o peso de v
 
    ```bash
    git clone https://github.com/joaow0/Weight-Register.git
+
+
+
+## 🙋‍♂️ Autor
+
+**João Pedro Sabino**  
+GitHub: [@joaow0](https://github.com/joaow0)
