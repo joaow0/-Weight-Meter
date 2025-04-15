@@ -1,2 +1,24 @@
-#  Weight-Meter
-# Registro de Peso - Sistema de Cadastro de Peso  Este é um programa Python simples desenvolvido para registrar informações de peso de várias pessoas. O sistema permite que você cadastre o nome e o peso de cada pessoa e, posteriormente, consulte o maior e menor peso registrado. É uma solução prática para gerenciar dados de peso e realizar análises rápidas.  ## Funcionalidades  - **Cadastro de Pessoas**: O programa permite cadastrar o nome e peso de várias pessoas. - **Exibição do Maior e Menor Peso**: Após o cadastro, o sistema informa qual foi o maior e o menor peso registrado. - **Consulta por Pessoa**: O usuário pode consultar o peso de qualquer pessoa cadastrada a partir de seu índice. - **Armazenamento Simples**: Utiliza uma lista de listas para armazenar os dados de cada pessoa, mantendo um registro fácil de manipular.  ## Como Rodar  ### Pré-requisitos  - **Python 3.x**: O programa foi desenvolvido utilizando Python 3, então é necessário ter a versão 3.x instalada em sua máquina.  Se não tiver o Python instalado, você pode obter o instalador em [python.org](https://www.python.org/downloads/).  ### Passos para Execução  1. **Clone o repositório para sua máquina local**:     Utilize o seguinte comando no terminal para clonar o repositório:        ```bash    git clone https://github.com/joaow0/Weight-Register.git
+# Sistema de Registro de Peso
+
+Este é um programa simples em Python que permite cadastrar o nome e o peso de várias pessoas. Ao final, o sistema informa quantas pessoas foram cadastradas, qual foi o maior e o menor peso registrado, e os nomes das pessoas que correspondem a esses pesos.
+
+## 🧠 Funcionalidades
+
+- Cadastro contínuo de nome e peso de pessoas.
+- Armazenamento dos dados em uma estrutura de lista.
+- Identificação do maior e do menor peso registrado.
+- Exibição das pessoas que possuem os extremos de peso.
+
+## 🚀 Como executar
+
+### Pré-requisitos
+
+- Python 3.x instalado na sua máquina.
+  - Você pode baixar pelo site oficial: [https://www.python.org](https://www.python.org)
+
+### Etapas
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/joaow0/Weight-Register.git
